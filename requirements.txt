@@ -14,3 +14,6 @@ pdfminer
 python-docx
 docx2txt
 unstructured[docx]
+pandas
+openpyxl
+jq
