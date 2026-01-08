@@ -17,8 +17,6 @@ pandas
 openpyxl
 jq
 matplotlib
-
-##Embeddings
 langchain-huggingface
 langchain-transformers
 langchain-experimental
@@ -26,3 +24,4 @@ rank_bm25
 wikipedia
 arxiv
 langchain-tavily
+langgraph-supervisor
