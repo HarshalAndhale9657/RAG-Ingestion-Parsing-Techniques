@@ -54,4 +54,4 @@ RAG-Ingestion-Parsing-Techniques/
 
 
 
-you know how to clone a repo!do you?
+You already know how to clone a repo… so I won’t insult your intelligence by explaining it here 😄
