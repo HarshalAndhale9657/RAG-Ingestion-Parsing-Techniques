@@ -30,16 +30,28 @@ Embedding & storage turns text chunks into vectors for retrieval.
 ```text
 RAG-Ingestion-Parsing-Techniques/
 │
-├── main.py                     # Entry script demonstrating ingestion/parsing
-├── requirements.txt            # Python dependencies
-├── pyproject.toml              # Project metadata
-├── uv.lock                     # Dependency lock file
-├── .python-version             # Python version specification
-├── README.md                   # Project documentation
-├── 0-DataIngestParsing/        # Modules related to ingestion & parsing techniques
-├── Data parsing techniques/    # Parsers, helpers, splitters, utilities
-└── .env                        # Environment variables template
+├── .venv/                     # Virtual environment
+│
+├── 0-DataIngestParsing/       # Data ingestion & basic parsing techniques
+├── 1-VectorEmbedding/         # Text to vector embedding methods
+├── 2-VectorStore/             # Vector database storage & retrieval
+├── 3-AdvancedChunking/        # Advanced chunking strategies
+├── 4-HybridSearch/            # Hybrid (keyword + vector) search methods
+├── 5-QueryEnhancement/        # Query rewriting and enhancement
+├── 6-MultimodalRAG/           # Multimodal RAG pipelines
+├── 7-AgenticRAG/              # Agent-based RAG workflows
+├── 8-RAGs/                    # Complete RAG pipeline implementations
+│
+├── list/                      # Supporting lists / utilities
+├── main.py                    # Entry script
+├── requirements.txt           # Python dependencies
+├── pyproject.toml             # Project metadata
+├── uv.lock                    # Dependency lock file
+├── .python-version            # Python version specification
+├── .env                       # Environment variables template
+└── README.md                  # Project documentation
 ```
+
 
 
 you know how to clone a repo!do you?
