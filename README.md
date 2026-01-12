@@ -27,16 +27,19 @@ Embedding & storage turns text chunks into vectors for retrieval.
 
 ## 📁 Project Structure
 
+```text
 RAG-Ingestion-Parsing-Techniques/
 │
-├── main.py # Entry script demonstrating ingestion/parsing
-├── requirements.txt # Python dependencies
-├── pyproject.toml # Project metadata
-├── uv.lock # Dependency lock file
-├── .python-version # Python version specification
-├── README.md # Project documentation
-├── 0-DataIngestParsing/ # Modules related to ingestion & parsing techniques
-├── Data parsing techniques/ # Parsers, helpers, splitters, utilities
-└── .env # Environment variables template
+├── main.py                     # Entry script demonstrating ingestion/parsing
+├── requirements.txt            # Python dependencies
+├── pyproject.toml              # Project metadata
+├── uv.lock                     # Dependency lock file
+├── .python-version             # Python version specification
+├── README.md                   # Project documentation
+├── 0-DataIngestParsing/        # Modules related to ingestion & parsing techniques
+├── Data parsing techniques/    # Parsers, helpers, splitters, utilities
+└── .env                        # Environment variables template
+```
+
 
 you know how to clone a repo!do you?
